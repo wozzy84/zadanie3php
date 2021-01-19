@@ -1,0 +1,82 @@
+
+body {
+  font-family: Arial, Helvetica, sans-serif; */
+}
+
+.main-title {
+  margin: 5px 10px
+}
+
+.merry-christmass {
+  text-align: center;
+}
+ .tree__container {
+  width: 100%;
+ }
+
+
+.tree__line {
+  text-align: center;
+  margin: 0;
+}
+
+.input-group {
+  display: flex;
+  flex-direction: column;
+  max-width: 240px;
+}
+
+.input__label {
+  margin: 5px 10px;
+
+}
+
+.input__text-input {
+  margin: 5px 10px 0px;
+}
+
+.form-button {
+  margin: 5px 10px;
+}
+
+.form-button {
+	background-color:dodgerblue;
+	border-radius:28px;
+	border:1px solid dodgerblue;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-size:17px;
+  width: 100px;
+  height: 30px;
+	text-decoration:none;
+  outline: none;
+}
+.form-button:hover {
+  background-color:white;
+  color: dodgerblue;
+}
+.form-button:active {
+	position:relative;
+	top:1px;
+}
+
+.error-text {
+  margin-left: 10px;
+  font-size: 12px;
+  color: red;
+}
+
+.cell {
+  height: 24px;
+  width: 24px;
+  border: 1px solid dodgerblue;
+  text-align: center;
+}
+
+.pow {
+  background-color: dodgerblue;
+  color: white;
+}
+
+
